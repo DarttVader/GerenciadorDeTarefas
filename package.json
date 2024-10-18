@@ -1,0 +1,29 @@
+{
+  "name": "kanban4.0",
+  "version": "1.0.0",
+  "description": "Gerenciador de Tarefas",
+  "main": "server.js",
+  "scripts": {
+    "server": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarttVader/GerenciadorDeTarefas.git"
+  },
+  "author": "DartVader",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarttVader/GerenciadorDeTarefas/issues"
+  },
+  "homepage": "https://github.com/DarttVader/GerenciadorDeTarefas#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "pg": "^8.13.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.14"
+  }
+}
